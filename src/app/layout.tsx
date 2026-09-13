@@ -1,5 +1,5 @@
 import type {Metadata} from "next";
-import {Geist, Geist_Mono} from "next/font/google";
+import {Geist, Geist_Mono, Montserrat} from "next/font/google";
 import "./globals.css";
 import "./countdown.css";
 import "./landing_style.css";
@@ -16,6 +16,14 @@ const geistSans = Geist({
 const geistMono = Geist_Mono({
     variable: "--font-geist-mono",
     subsets: ["latin"],
+});
+
+const montserrat = Montserrat({
+    subsets: ["latin"],
+    variable: "--font-montserrat",
+    // Optional: specify weights if you want non-variable/fixed weights
+    weight: ["300", "400", "500", "600", "700"],
+    display: "swap",
 });
 
 export const metadata: Metadata = {
