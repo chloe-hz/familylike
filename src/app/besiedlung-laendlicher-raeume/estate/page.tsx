@@ -9,7 +9,7 @@ export default function Page() {
 						<h1>Estate</h1>
 						<h2>Querbeet - Individuell - Marktresistent</h2>
 
-						<p>Relevante Entwicklungen zu</p>
+						<h3>Relevante Entwicklungen zu</h3>
 
 						<ul>
 							<li>Wohnen</li>
@@ -23,17 +23,18 @@ export default function Page() {
 						</ul>
 
 						<p>
+							<br/>
 							Hier werden die unterschiedlichen professionellen Adressaten zu
 							Individualentwicklungen innerhalb der EU und der TR aus der Kooperation
 							Jörg & Jörg animiert, akquiriert und mit unseren Möglichkeiten geführt.<br /><br />
 
-							Immer anders und unique und alles aus unserer Feder<br />
+							Immer anders und unique und alles aus unserer Feder.<br />
 							Wir machen nur, was uns Spaß bringt, und deshalb fühlen wir uns klasse.<br />
 							Neu und anders, out of the box, richtig wichtig und trotzdem top professional.<br />
 							Willkommen bei Jörg & Jörg kooperation.
 						</p>
 
-						<button>klick hier</button>
+						<a target="_blank" href="https://canva.link/f1fw6wxo24kap1n"><button className="my-4!">Item 2.6.10 - Präsentation</button></a>
 					</div>
 				</div>
 			</div>

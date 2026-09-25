@@ -39,9 +39,9 @@ export default function Home() {
                             Ökologisch. Sozial. Gesellschaftsfähig. Nachhaltig.
                         </p>
 
-                        {/*<Link href="/besiedlung-laendlicher-raeume">*/}
-                        {/*    <button>Guck dich um</button>*/}
-                        {/*</Link>*/}
+                        <Link href="/besiedlung-laendlicher-raeume">
+                            <button>Guck dich um</button>
+                        </Link>
                     </div>
                 </div>
 
