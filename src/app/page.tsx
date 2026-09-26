@@ -32,10 +32,10 @@ export default function Home() {
                             <span>ländlichen Räume</span>
                         </h1>
                         <p>
-                            Die freundliche und smarte Reformation durch die Vordertür.<br/><br/>
+                            Die freundliche und smarte Revolution durch die Hintertür.<br/><br/>
+                            Unten gewollt und gebraucht<br/><br/>
                             Aus der Mitte initiiert<br/>
                             Oben angekommen<br/>
-                            Unten gewollt und gebraucht<br/><br/>
                             Ökologisch. Sozial. Gesellschaftsfähig. Nachhaltig.
                         </p>
 
