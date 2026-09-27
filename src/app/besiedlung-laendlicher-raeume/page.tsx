@@ -30,7 +30,7 @@ export default function Page() {
             <div className="main-content">
                 <h1>FamilyLike</h1>
                 <div className="polaroid-gallery">
-                    <Link href="besiedlung-laendlicher-raeume/estate">
+                    <Link href="/besiedlung-laendlicher-raeume/estate">
                         <img src="/img/estate.png" alt="img" className=""/>
                         <p>
                             Estate<br/>
