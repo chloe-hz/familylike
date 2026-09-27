@@ -58,71 +58,71 @@ export default function Page() {
 
                 </div>
                 <div className="polaroid-gallery py-8!">
-                    <Link href="#">
-                        <img src="/img/eschenhof-potential.jpg" alt="2.6.1" className="grayscale-100"/>
-                        <p>
-                            2.6.1<br/>
-                            Tiny-House-Village-Solution
-                        </p>
-                    </Link>
-                    <Link href="#">
-                        <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.2 - Maritim"/>
-                        <p>
-                            2.6.2<br/>
-                            Tiny-House-Showpark
-                        </p>
-                    </Link>
-                    <Link href="#">
-                        <img src="/img/ecological-agriculture.jpg" className="grayscale-100" alt="2.6.3 - Maritim"/>
-                        <p>
-                            2.6.3<br/>
-                            Container-Village-Solution<br/>
-                            Housing First
-                        </p>
-                    </Link>
-                    <Link href="#">
-                        <img src="/img/Container-Village-Solution-High-End.png" className="grayscale-100" alt="2.6.4 - Maritim"/>
-                        <p>
-                            2.6.4<br/>
-                            High End<br/>
-                            Wohnen/Arbeiten/Leben
-                        </p>
-                    </Link>
-                    <Link href="#">
-                        <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.5 - Maritim"/>
-                        <p>
-                            2.6.5<br/>
-                            Tourismus-Fitness-Health-Social-Ecological-Environmental-Park
-                        </p>
-                    </Link>
-                    <Link href="#">
-                        <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.6 - Maritim"/>
-                        <p>
-                            2.6.6<br/>
-                            Special CenterPark 6.0
-                        </p>
-                    </Link>
-                    <Link href="#">
-                        <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.7 - Maritim"/>
-                        <p>
-                            2.6.7<br/>
-                            Wasserflächen Binnen
-                        </p>
-                    </Link>
-                    <Link href="#">
-                        <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.8 - Maritim"/>
-                        <p>
-                            2.6.8<br/>
-                            Special Wasserflächen See
-                        </p>
-                    </Link>
-                    <Link href="#">
-                        <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.9 - Maritim"/>
-                        <p>
-                            2.6.9<br/>
-                            Special Container-Solutions Indoor
-                        </p>
-                    </Link>
+                    {/*<Link href="#">*/}
+                    {/*    <img src="/img/eschenhof-potential.jpg" alt="2.6.1" className="grayscale-100"/>*/}
+                    {/*    <p>*/}
+                    {/*        2.6.1<br/>*/}
+                    {/*        Tiny-House-Village-Solution*/}
+                    {/*    </p>*/}
+                    {/*</Link>*/}
+                    {/*<Link href="#">*/}
+                    {/*    <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.2 - Maritim"/>*/}
+                    {/*    <p>*/}
+                    {/*        2.6.2<br/>*/}
+                    {/*        Tiny-House-Showpark*/}
+                    {/*    </p>*/}
+                    {/*</Link>*/}
+                    {/*<Link href="#">*/}
+                    {/*    <img src="/img/ecological-agriculture.jpg" className="grayscale-100" alt="2.6.3 - Maritim"/>*/}
+                    {/*    <p>*/}
+                    {/*        2.6.3<br/>*/}
+                    {/*        Container-Village-Solution<br/>*/}
+                    {/*        Housing First*/}
+                    {/*    </p>*/}
+                    {/*</Link>*/}
+                    {/*<Link href="#">*/}
+                    {/*    <img src="/img/Container-Village-Solution-High-End.png" className="grayscale-100" alt="2.6.4 - Maritim"/>*/}
+                    {/*    <p>*/}
+                    {/*        2.6.4<br/>*/}
+                    {/*        High End<br/>*/}
+                    {/*        Wohnen/Arbeiten/Leben*/}
+                    {/*    </p>*/}
+                    {/*</Link>*/}
+                    {/*<Link href="#">*/}
+                    {/*    <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.5 - Maritim"/>*/}
+                    {/*    <p>*/}
+                    {/*        2.6.5<br/>*/}
+                    {/*        Tourismus-Fitness-Health-Social-Ecological-Environmental-Park*/}
+                    {/*    </p>*/}
+                    {/*</Link>*/}
+                    {/*<Link href="#">*/}
+                    {/*    <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.6 - Maritim"/>*/}
+                    {/*    <p>*/}
+                    {/*        2.6.6<br/>*/}
+                    {/*        Special CenterPark 6.0*/}
+                    {/*    </p>*/}
+                    {/*</Link>*/}
+                    {/*<Link href="#">*/}
+                    {/*    <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.7 - Maritim"/>*/}
+                    {/*    <p>*/}
+                    {/*        2.6.7<br/>*/}
+                    {/*        Wasserflächen Binnen*/}
+                    {/*    </p>*/}
+                    {/*</Link>*/}
+                    {/*<Link href="#">*/}
+                    {/*    <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.8 - Maritim"/>*/}
+                    {/*    <p>*/}
+                    {/*        2.6.8<br/>*/}
+                    {/*        Special Wasserflächen See*/}
+                    {/*    </p>*/}
+                    {/*</Link>*/}
+                    {/*<Link href="#">*/}
+                    {/*    <img src="https://placehold.co/999x999" className="grayscale-100" alt="2.6.9 - Maritim"/>*/}
+                    {/*    <p>*/}
+                    {/*        2.6.9<br/>*/}
+                    {/*        Special Container-Solutions Indoor*/}
+                    {/*    </p>*/}
+                    {/*</Link>*/}
                     <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/">
                         <img src="/img/schwimmbagger.png" alt="2.6.10 - Maritim"/>
                         <p>

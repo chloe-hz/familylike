@@ -12,37 +12,37 @@ const estateAreas: MapArea[] = [
     },
     {
         alt: "maritim-historisch-links",
-        href: "#",
+        href: "/besiedlung-laendlicher-raeume/estate/2-6-10/bild/",
         coords: "156,617,4,810,1,843,713,915,779,674",
         target: "_blank",
     },
     {
         alt: "maritim-historisch-rechts",
-        href: "https://canva.link/f1fw6wxo24kap1n",
+        href: "https://canva.link/vvx4doegs06mik0",
         coords: "824,717,1267,745,1316,937,765,897",
         target: "_blank",
     },
     {
         alt: "hamburger-abendblatt",
-        href: "#",
+        href: "/img/Artikel-Hamburger-Abendblatt.jpg",
         coords: "574,501,1053,531,1044,696,465,640",
         target: "_blank",
     },
     {
         alt: "pitch-left",
-        href: "#",
+        href: "/pdf/Pitch-Kunstbagger-Projekt.pdf",
         coords: "1075,575,1240,578,1256,717,1073,711",
         target: "_blank",
     },
     {
         alt: "pitch-right",
-        href: "#",
+        href: "/pdf/Pitch-Kunstbagger-Projekt.pdf",
         coords: "1327,596,1354,599,1375,611,1391,625,1401,640,1404,662,1400,687,1388,711,1364,723,1339,729,1301,723,1271,704,1252,676,1249,637,1271,611,1298,597",
         target: "_blank",
     },
     {
         alt: "modell-oben-mittig",
-        href: "#",
+        href: "/besiedlung-laendlicher-raeume/estate/2-6-10/modelle",
         coords: "420,404,479,256,836,215,1123,247,1137,373,1099,472,1081,488,1071,529,452,481",
         target: "_blank",
     }
@@ -60,16 +60,12 @@ const estateAreas: MapArea[] = [
 export default function Page() {
     return (
         <>
-            <div className="flex-1 w-auto h-full">
-                <ResponsiveImageMap
-                    src="/img/estate-img-map.png"
-                    alt="Estate interactive plan"
-                    areas={estateAreas}
-                />
-            </div>
-            <div>
-                <Link href="/besiedlung-laendlicher-raeume/estate/"><button>Back</button></Link>
-            </div>
+            <ResponsiveImageMap
+                src="/img/estate-img-map.png"
+                alt="Estate interactive plan"
+                areas={estateAreas}
+            />
+            <Link href="/besiedlung-laendlicher-raeume/estate/" className="p-4! flex-1"><button>Zurück</button></Link>
         </>
     );
 }
