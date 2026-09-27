@@ -7,43 +7,37 @@ const estateAreas: MapArea[] = [
     {
         alt: "ipad-tv-report",
         href: "https://www.ardmediathek.de/video/hamburg-journal/hamburg-journal-oder-25-08-2026/ndr/Y3JpZDovL25kci5kZS9wcm9wbGFuXzE5NjM4MDgxNV9nYW56ZVNlbmR1bmc?startTime=1504.27&amp;endTime=1585",
-        coords: "76,367,382,321,463,537,124,600,72,546,93,458",
+        coords: "69,320,347,284,422,481,107,537,60,479,81,393",
         target: "_blank",
     },
     {
         alt: "maritim-historisch-links",
         href: "/besiedlung-laendlicher-raeume/estate/2-6-10/bild/",
-        coords: "156,617,4,810,1,843,713,915,779,674",
+        coords: "138,571,747,643,676,894,2,816,2,739",
         target: "_blank",
     },
     {
         alt: "maritim-historisch-rechts",
         href: "https://canva.link/vvx4doegs06mik0",
-        coords: "824,717,1267,745,1316,937,765,897",
+        coords: "822,699,1252,736,1298,925,765,879",
         target: "_blank",
     },
     {
         alt: "hamburger-abendblatt",
         href: "/img/Artikel-Hamburger-Abendblatt.jpg",
-        coords: "574,501,1053,531,1044,696,465,640",
+        coords: "515,469,1039,507,1007,662,398,597",
         target: "_blank",
     },
     {
-        alt: "pitch-left",
+        alt: "pitch",
         href: "/pdf/Pitch-Kunstbagger-Projekt.pdf",
-        coords: "1075,575,1240,578,1256,717,1073,711",
-        target: "_blank",
-    },
-    {
-        alt: "pitch-right",
-        href: "/pdf/Pitch-Kunstbagger-Projekt.pdf",
-        coords: "1327,596,1354,599,1375,611,1391,625,1401,640,1404,662,1400,687,1388,711,1364,723,1339,729,1301,723,1271,704,1252,676,1249,637,1271,611,1298,597",
+        coords: "1045,569,1205,574,1363,596,1388,664,1335,705,1036,690",
         target: "_blank",
     },
     {
         alt: "modell-oben-mittig",
         href: "/besiedlung-laendlicher-raeume/estate/2-6-10/modelle",
-        coords: "420,404,479,256,836,215,1123,247,1137,373,1099,472,1081,488,1071,529,452,481",
+        coords: "419,442,376,336,450,224,778,197,1115,280,1121,395,1069,497",
         target: "_blank",
     }
     // {

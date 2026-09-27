@@ -5,7 +5,6 @@ export default function Page() {
         <>
             <div className="main-content">
                 <h1>Bilder</h1>
-                <p>Bilder für die Besiedlung laendlicher Raeume</p>
 
                 <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/" className="p-4!"><button>Zurück</button></Link>
 
