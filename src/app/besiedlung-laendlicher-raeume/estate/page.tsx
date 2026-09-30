@@ -46,7 +46,7 @@ export default function Page() {
                         Immer anders und unique und alles aus unserer Feder.<br/>
                         Wir machen nur, was uns Spaß bringt, und deshalb fühlen wir uns klasse.<br/>
                         Neu und anders, out of the box, richtig wichtig und trotzdem top professional.<br/>
-                        Willkommen bei Jörg & Jörg kooperation.
+                        Willkommen bei FamilyLike.
                     </p>
 
 
