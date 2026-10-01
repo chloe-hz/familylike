@@ -46,10 +46,10 @@ export default function RootLayout({
     return (
         <html lang="en">
             <body>
-                <Navbar />
-                <MobileNavbar />
+                {/*<Navbar />*/}
+                {/*<MobileNavbar />*/}
                 {children}
-                <Footer />
+                {/*<Footer />*/}
             </body>
         </html>
     );
