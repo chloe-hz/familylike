@@ -68,11 +68,12 @@
         /*--font-mono: var(--font-geist-mono);*/
         --font-montserrat: var(--font-montserrat), sans-serif;
 
-        --animate-hover: hover 2s ease-in-out infinite;
+        --animate-hover: hover 3s ease-in-out infinite;
 
         @keyframes hover {
-            0%, 100% {transform: translateY(10px)}
-            50% {transform: translateY(-10px)}
+            0% {transform: translateY(8px)}
+            50% {transform: translateY(-8px)}
+            100% {transform: translateY(8px)}
         }
     }
 
