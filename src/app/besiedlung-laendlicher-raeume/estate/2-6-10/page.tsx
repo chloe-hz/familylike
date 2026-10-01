@@ -2,6 +2,7 @@
 
 import ResponsiveImageMap, { MapArea } from "@/components/ResponsiveImageMap";
 import Link from "next/link";
+import Image from "next/image";
 
 const estateAreas: MapArea[] = [
     {
@@ -54,6 +55,7 @@ const estateAreas: MapArea[] = [
 export default function Page() {
     return (
         <>
+            {/*<Image width="64" height="64" src="/img/cursor.png" alt="alt" className="absolute z-10 top-20 left-10" />*/}
             <ResponsiveImageMap
                 src="/img/estate-img-map.png"
                 alt="Estate interactive plan"
