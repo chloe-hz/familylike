@@ -33,7 +33,7 @@ export default function Home() {
                         </h1>
                         <p>
                             Die freundliche und smarte Revolution durch die Hintertür.<br/><br/>
-                            Von der Basis gewollt und gebraucht<br/>
+                            Von der Basis gewollt<br/>
                             Aus der Mitte initiiert<br/>
                             Oben angekommen<br/><br/>
                             Ökologisch. Sozial. Gesellschaftsfähig. Nachhaltig.

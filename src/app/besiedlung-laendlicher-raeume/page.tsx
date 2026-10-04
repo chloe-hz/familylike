@@ -68,7 +68,7 @@ export default function Page() {
                         </p>
                     </Link>
                     <Link href="" onClick={() => setGrayClicked(true)}>
-                        <img src="/img/environmental.png" alt="img" className="grayscale-100"/>
+                        <img src="/img/environmental.jpg" alt="img" className="grayscale-100"/>
                         <p>
                             Environmental<br/>
                         </p>
