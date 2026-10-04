@@ -132,9 +132,9 @@ export default function ResponsiveImageMap({
                         key={index}
                         width="64"
                         height="64"
-                        src="/img/cursor.png"
+                        src="/img/cursor-1.png"
                         alt={areas[index]?.alt || areas[index]?.title || "cursor indicator"}
-                        className="absolute z-10 pointer-events-none -translate-x-1/2 -translate-y-1/2 select-none animate-hover w-8 md:w-12 lg:w-16"
+                        className="absolute z-10 pointer-events-none -translate-x-1/2 -translate-y-1/2 select-none animate-cursor w-8 md:w-12 lg:w-16"
                         style={{
                             left: `${pos.x}px`,
                             top: `${pos.y}px`,
