@@ -30,11 +30,11 @@ export default function Page() {
             <div className="main-content">
                 <h1>FamilyLike</h1>
                 <div className="polaroid-gallery">
-                    <Link href="/besiedlung-laendlicher-raeume/estate">
-                        <img src="/img/estate.png" alt="img" className=""/>
+                    <Link href="">
+                        <img src="/img/estate.png" alt="img" className="grayscale-100"/>
                         <p>
                             Estate<br/>
-                            {/*(Is' bald soweit)*/}
+                            (Is' bald soweit)
                         </p>
                     </Link>
                     <Link href="">
