@@ -6,7 +6,11 @@ export default function Page() {
             
             <div className="main-content">
                 <h1>Team</h1>
-                <h2>Wir lernen uns bald kennen.</h2>
+                <h2 className="text-center">
+                    Wir lernen uns bald kennen.<br/>
+                    Damit es sich so smart und erfolgreich fortsetzt, wie es begann.<br/>
+                    Gerne auch bei euch.
+                </h2>
             </div>
 
         </>

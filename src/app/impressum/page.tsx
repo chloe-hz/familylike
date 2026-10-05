@@ -10,7 +10,7 @@ export default function Page() {
                         <p>
                             Jörg-Matthias Schimmer<br />
                             Freiberuflicher Consultant - Ingenieur, Konzeptioner &amp; Strategieberater<br />
-                            Wahmstraße 60<br />
+                            Postalischer Kontakt: Wahmstraße 60<br />
                             23552 Lübeck<br />
                             Deutschland
                         </p>
@@ -45,7 +45,7 @@ export default function Page() {
                         <h2>2. Verantwortlicher</h2>
                         <p>
                             Jörg-Matthias Schimmer<br />
-                            Wahmstraße 60<br />
+                            Postalischer Kontakt: Wahmstraße 60<br />
                             23552 Lübeck<br />
                             Deutschland<br />
                             <strong>Telefon:</strong> <a href="tel:+491783830189">+49 (0) 178 38 30 189</a><br />
