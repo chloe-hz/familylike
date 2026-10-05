@@ -25,7 +25,7 @@ const estateAreas: MapArea[] = [
     },
     {
         alt: "hamburger-abendblatt",
-        href: "/img/Artikel-Hamburger-Abendblatt.jpg",
+        href: "/img/abendblatt.jpg",
         coords: "9,509,384,465,526,739,522,766,532,798,303,863,57,863",
         target: "_blank",
     },
