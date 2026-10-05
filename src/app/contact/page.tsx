@@ -5,7 +5,8 @@ export default function Page() {
         <>
             <div className="main-content">
                 <h1>Kontakt</h1>
-                <h2>Früher am Start als gedacht. Aber es gilt, ein faszinierendes Projekt zu sichern.</h2>
+                <div>
+                    <p>Früher am Start als gedacht. Aber es gilt, ein faszinierendes Projekt zu sichern.</p>
                     <p>
                         Vorläufiger Empfänger: <a href="mailto:mate.matt@posteo.de">mate.matt@posteo.de</a><br/><br/>
 
@@ -21,6 +22,7 @@ export default function Page() {
                         You are being taken care of.<br/>
                         You're in good hands.
                     </p>
+                </div>
             </div>
         </>
     );
