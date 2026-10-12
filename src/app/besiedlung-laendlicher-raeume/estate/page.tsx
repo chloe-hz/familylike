@@ -33,23 +33,26 @@ export default function Page() {
                     <h2>Querbeet - Individuell - Marktresistent</h2>
 
                     <h3>Relevante Entwicklungen zu</h3>
-                    <p>
-                        Wohnen, Leben, Arbeiten, Tourismus, Social, Health, Care, Nachhaltigkeit und Ökologie
-                    </p>
 
                     <p>
-                        <br/>
-                        Hier werden die unterschiedlichen professionellen Adressaten zu
-                        Individualentwicklungen innerhalb der EU und der TR aus der Kooperation
-                        Jörg & Jörg animiert, akquiriert und mit unseren Möglichkeiten geführt.<br/><br/>
+                        Wohnen, Leben, Arbeiten, Tourismus, Hospitality, Social, Health, Care, Nachhaltigkeit und
+                        Ökologie<br/><br/>
+
+                        Hier werden die unterschiedlichen professionellen Adressaten zu Individualentwicklungen
+                        innerhalb
+                        der EU und der TR aus der Kooperation Jörg & Jörg animiert, akquiriert und mit unseren
+                        Möglichkeiten
+                        verknüpft. Immer anders und unique und alles aus unserer Feder. Wir machen nur, was uns Spaß
+                        bringt,
+                        was wir für gesellschaftsfähig befinden und was sich unlängst als nachhaltig auch erwiesen
+                        hat.<br/><br/>
 
                         Immer anders und unique und alles aus unserer Feder.<br/>
                         Wir machen nur, was uns Spaß bringt, und deshalb fühlen wir uns klasse.<br/>
-                        Neu und anders, out of the box, richtig wichtig und trotzdem top professional.<br/>
+                        Neu und anders, out of the box, richtig wichtig und trotzdem top professional.<br/><br/>
+
                         Willkommen bei FamilyLike.
                     </p>
-
-
 
 
                     {/*<a target="_blank" href="https://canva.link/f1fw6wxo24kap1n">*/}
