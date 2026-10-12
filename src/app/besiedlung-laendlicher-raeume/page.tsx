@@ -38,12 +38,6 @@ export default function Page() {
                 }
                 <div className="polaroid-gallery">
                     <Link href="" onClick={() => setGrayClicked(true)}>
-                        <img src="/img/estate.png" alt="img" className="grayscale-100"/>
-                        <p>
-                            Estate<br/>
-                        </p>
-                    </Link>
-                    <Link href="" onClick={() => setGrayClicked(true)}>
                         <img src="/img/spot-nachher.png" alt="img" className="grayscale-100"/>
                         <p>
                             Revitalisierung im Ländlichen Raum<br/>
@@ -52,7 +46,7 @@ export default function Page() {
                     <Link href="" onClick={() => setGrayClicked(true)}>
                         <img src="/img/pai.jpg" alt="img" className="grayscale-100"/>
                         <p>
-                            Professional / Administrative / Institutional<br/>
+                            Professional PM / Wissenschaft / Administrative / Institutionelle / Politik / Finance / Wirtschaft<br/>
                         </p>
                     </Link>
                     <Link href="" onClick={() => setGrayClicked(true)}>
@@ -71,6 +65,12 @@ export default function Page() {
                         <img src="/img/environmental.jpg" alt="img" className="grayscale-100"/>
                         <p>
                             Environmental<br/>
+                        </p>
+                    </Link>
+                    <Link href="" onClick={() => setGrayClicked(true)}>
+                        <img src="/img/estate.png" alt="img" className="grayscale-100"/>
+                        <p>
+                            Real Estate<br/>
                         </p>
                     </Link>
                 </div>

@@ -59,7 +59,7 @@ export default function MobileNavbar() {
                         onClick={() => setIsMenuOpen(false)}
                         className="pb-2! text-dark-blue hover:text-hover font-semibold text-2xl"
                     >
-                        Contact
+                        Kontakt
                     </Link>
                 </div>
             )}
