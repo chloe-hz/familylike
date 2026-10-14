@@ -10,7 +10,7 @@ export default function Page() {
                 <div className="w-full block overflow-hidden">
                     <video width="100%" height="100%" controls className="block">
                         <source src="/vid/Meerkat_renovates_dilapidated_building.mp4" type="video/mp4" />
-                        Your Browser doesn't support Video Tags...
+                        Your Browser doesn&apos;t support Video Tags...
                     </video>
                 </div>
 

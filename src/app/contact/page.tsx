@@ -18,9 +18,9 @@ export default function Page() {
 
                         Tentative recipient: mate.matt@posteo.de<br/><br/>
 
-                        You don’t get lost.<br/>
+                        You don&apos;t get lost.<br/>
                         You are being taken care of.<br/>
-                        You're in good hands.
+                        You&apos;re in good hands.
                     </p>
                 </div>
             </div>
