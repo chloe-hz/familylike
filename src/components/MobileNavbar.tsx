@@ -15,7 +15,7 @@ export default function MobileNavbar() {
         <div
             className="md:hidden sticky top-0 z-1000 w-full bg-white">
             {/* Header Area */}
-            <div className="flex items-center justify-between p-3 px-5">
+            <div className="flex items-center justify-between p-3! px-5">
                 <img id="logo" src="/img/logo.png" alt="Logo" className="h-12 w-auto"/>
 
                 <div className={"flex items-center gap-2"}>
