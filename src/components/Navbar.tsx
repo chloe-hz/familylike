@@ -9,7 +9,7 @@ export default function Navbar() {
         <div className="nav hidden! md:flex!">
             <Link href="/" className="mr-auto!"><img id="logo" src="/img/logo.png" alt="Logo" /></Link>
 
-            <LanguageMenu />
+            {/*<LanguageMenu />*/}
 
             <Link href="/">Home</Link>
             <Link href="/team">Team</Link>

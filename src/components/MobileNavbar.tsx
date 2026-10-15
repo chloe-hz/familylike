@@ -19,7 +19,7 @@ export default function MobileNavbar() {
                 <img id="logo" src="/img/logo.png" alt="Logo" className="h-12 w-auto"/>
 
                 <div className={"flex items-center gap-2"}>
-                    <LanguageMenu />
+                    {/*<LanguageMenu />*/}
 
                     {/* Hamburger Button */}
                     <button

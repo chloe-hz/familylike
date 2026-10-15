@@ -38,7 +38,6 @@ export default function Home() {
                             Oben angekommen<br/><br/>
                             Ökologisch. Sozial. Gesellschaftsfähig. Nachhaltig.
                         </p>
-
                         <Link href="/besiedlung-laendlicher-raeume">
                             <button>Guck dich um</button>
                         </Link>

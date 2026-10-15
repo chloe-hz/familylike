@@ -22,7 +22,7 @@ const teamMembers: TeamMember[] = [
         role: "Mastermind / Projektentwickler",
         bio: "Als Vordenker von Familylike & More treibt er innovative Konzepte für die Nachnutzung ländlicher Liegenschaften sowie zukunftsfähige Lebens- und Gemeinschaftsmodelle voran.",
         tags: ["Strategie", "Regionalentwicklung", "Projektentwicklung", "Konzeptdesign"],
-        image: "https://placehold.co/600x600/253251/ffffff?text=J.+M.+Schimmer",
+        image: "/img/portrait-joerg.png",
         links: [
             {
                 label: "LinkedIn",
@@ -70,7 +70,7 @@ const teamMembers: TeamMember[] = [
         role: "Lead Consultant ESG / Quartiersentwicklung",
         bio: "Der nachhaltigkeitsorientierte Generalist verbindet ESG-Beratung mit praxisnahen Konzepten für gemeinwohlorientierte Wohnprojekte und zukunftsfähige Quartiersentwicklung.",
         tags: ["ESG", "Quartiersentwicklung", "Wohnprojekte", "Nachhaltigkeit"],
-        image: "https://placehold.co/600x600/47a8a4/ffffff?text=M.+Westermann",
+        image: "/img/portrait-sebastian-buettner.png",
         links: [
             {
                 label: "LinkedIn",
