@@ -27,17 +27,16 @@ export default function Page() {
                 <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/" className="p-4!"><button>Zurück</button></Link>
 
                 <div className="flex w-full h-full justify-center items-center flex-wrap gap-16">
-                    {/*<Image src="/img/Model-Archipelvariante-Beleuchtung.png" alt="Archipelvariante-Beleuchtung" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
-                    {/*<Image src="/img/Model-Grundvariante-Faehre.png" alt="Grundvariante-Faehre" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
-                    {/*<Image src="/img/Model-Kaivariante-Bebauung-Harburg.png" alt="Kaivariante-Bebauung-Harburg" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
-                    {/*<Image src="/img/Model-Kaivariante-Grundvariante-Beleuchtung.png" alt="Kaivariante-Grundvariante-Beleuchtung" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
                     <Image src="/img/Modell-Archipelvariante-Beleuchtung.jpg" alt="Archivpelvariante-Beleuchtung" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Modell-Grundvariante+Faehre.jpg" alt="Grundvariante-Faehre" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Modell-Inselvariante-Beleuchtung.png" alt="Inselvariante-Beleuchtung" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
-                    {/*<Image src="/img/Modell-Inselvariante-Beleuchtung-2.png" alt="Inselvariante-Beleuchtung-2" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
                     <Image src="/img/Modell-Kaivariante+Bebauung-Harburg.jpg" alt="Kaivariante+Bebauung-Harburg" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Modell-Kaivariante-Grundvariante.png" alt="Kaivariante-Grundvariante" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Modell-Kunstbagger.png" alt="Kunstbagger" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
+                    <Image src="/img/Modell1.jpg" alt="Modell1" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
+                    <Image src="/img/Modell2.jpg" alt="Modell2" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
+                    <Image src="/img/Modell3.jpg" alt="Modell3" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
+                    <Image src="/img/Modell4.jpg" alt="Modell4" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                 </div>
 
                 <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/" className="p-4!"><button>Zurück</button></Link>

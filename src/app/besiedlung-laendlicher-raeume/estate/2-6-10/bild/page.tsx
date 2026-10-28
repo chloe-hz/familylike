@@ -26,16 +26,10 @@ export default function Page() {
                 <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/" className="p-4!"><button>Zurück</button></Link>
 
                 <div className="flex w-full h-full justify-center items-center flex-wrap gap-16">
-                    {/*<Image src="/img/Bild-Kaivariante-Bebauung-Harburg.jpeg" alt="Kaivariante-Bebauung-Harburg" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
                     <Image src="/img/Bild-Kaivariante-Beleuchtung.png" alt="Bild-Kaivariante-Beleuchtung" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
-                    {/*<Image src="/img/Bild-Kaivariante-Bremerhaven-02.png" alt="Kaivariante-Bremerhaven-02" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
-                    {/*<Image src="/img/Bild-Kaivariante-Bremerhaven-03.png" alt="Kaivariante-Bremerhaven-03" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
                     <Image src="/img/Bild-Kaivariante-Bremerhaven-04.png" alt="Kaivariante-Bremerhaven-04" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
-                    {/*<Image src="/img/Bild-Kaivariante-Faehre-Bebauung-Harburg.png" alt="Kaivariante-Faehre-Bebauung-Harburg" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
-                    {/*<Image src="/img/Bild-Kaivariante-Zwischenloesung-BeachClub-Harburg.png" alt="Kaivariante-Zwischenloesung-BeachClub-Harburg" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
                     <Image src="/img/Bild-Kunstbagger.png" alt="Kunstbagger" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Bild-Kunstbagger-Projekt-Inhalte.png" alt="Kunstbagger-Projekt-Inhalte" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
-                    {/*<Image src="/img/Bild-Zwischenloesung-BeachClub-Harburg.png" alt="Bild-Zwischenloesung-BeachClub-Hairburg" width="0" height="0" sizes="100vw" className="w-full h=auto"/>*/}
                 </div>
 
                 <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/" className="p-4!"><button>Zurück</button></Link>
