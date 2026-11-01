@@ -47,20 +47,20 @@ export default function MobileNavbar() {
                     >
                         Home
                     </Link>
-                    <Link
-                        href="/team"
-                        onClick={() => setIsMenuOpen(false)}
-                        className="pb-2! text-dark-blue hover:text-hover font-semibold text-2xl"
-                    >
-                        Team
-                    </Link>
-                    <Link
-                        href="/contact"
-                        onClick={() => setIsMenuOpen(false)}
-                        className="pb-2! text-dark-blue hover:text-hover font-semibold text-2xl"
-                    >
-                        Kontakt
-                    </Link>
+                    {/*<Link*/}
+                    {/*    href="/team"*/}
+                    {/*    onClick={() => setIsMenuOpen(false)}*/}
+                    {/*    className="pb-2! text-dark-blue hover:text-hover font-semibold text-2xl"*/}
+                    {/*>*/}
+                    {/*    Team*/}
+                    {/*</Link>*/}
+                    {/*<Link*/}
+                    {/*    href="/contact"*/}
+                    {/*    onClick={() => setIsMenuOpen(false)}*/}
+                    {/*    className="pb-2! text-dark-blue hover:text-hover font-semibold text-2xl"*/}
+                    {/*>*/}
+                    {/*    Kontakt*/}
+                    {/*</Link>*/}
                 </div>
             )}
         </div>

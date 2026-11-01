@@ -12,8 +12,8 @@ export default function Navbar() {
             {/*<LanguageMenu />*/}
 
             <Link href="/">Home</Link>
-            <Link href="/team">Team</Link>
-            <Link href="/contact">Kontakt</Link>
+            {/*<Link href="/team">Team</Link>*/}
+            {/*<Link href="/contact">Kontakt</Link>*/}
         </div>
     );
 }

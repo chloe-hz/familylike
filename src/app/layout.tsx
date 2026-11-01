@@ -49,7 +49,7 @@ export default function RootLayout({
                 <Navbar />
                 <MobileNavbar />
                 {children}
-                <Footer />
+                {/*<Footer />*/}
             </body>
         </html>
     );
