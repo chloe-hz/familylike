@@ -30,6 +30,9 @@ export default function Page() {
                     <Image src="/img/Bild-Kaivariante-Bremerhaven-04.png" alt="Kaivariante-Bremerhaven-04" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Bild-Kunstbagger.png" alt="Kunstbagger" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Bild-Kunstbagger-Projekt-Inhalte.png" alt="Kunstbagger-Projekt-Inhalte" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
+                    <Image src="/img/Modell1.jpg" alt="Modell1" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
+                    <Image src="/img/Modell3.jpg" alt="Modell3" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
+                    <Image src="/img/Modell4.jpg" alt="Modell4" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                 </div>
 
                 <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/" className="p-4!"><button>Zurück</button></Link>

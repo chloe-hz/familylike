@@ -33,10 +33,7 @@ export default function Page() {
                     <Image src="/img/Modell-Kaivariante+Bebauung-Harburg.jpg" alt="Kaivariante+Bebauung-Harburg" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Modell-Kaivariante-Grundvariante.png" alt="Kaivariante-Grundvariante" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Modell-Kunstbagger.png" alt="Kunstbagger" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
-                    <Image src="/img/Modell1.jpg" alt="Modell1" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                     <Image src="/img/Modell2.jpg" alt="Modell2" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
-                    <Image src="/img/Modell3.jpg" alt="Modell3" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
-                    <Image src="/img/Modell4.jpg" alt="Modell4" width="0" height="0" sizes="100vw" className="w-full h=auto"/>
                 </div>
 
                 <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/" className="p-4!"><button>Zurück</button></Link>
