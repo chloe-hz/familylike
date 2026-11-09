@@ -56,12 +56,14 @@ export default function Page() {
     return (
         <>
             {/*<Image width="64" height="64" src="/img/cursor.png" alt="alt" className="absolute z-10 top-20 left-10" />*/}
-            <ResponsiveImageMap
-                src="/img/maritim-image-map.jpg"
-                alt="Estate interactive plan"
-                areas={estateAreas}
-            />
-            <Link href="/besiedlung-laendlicher-raeume/estate/" className="p-4! flex-1"><button>Zurück</button></Link>
+            <div className="flex flex-col items-center">
+                <ResponsiveImageMap
+                    src="/img/maritim-image-map.jpg"
+                    alt="Estate interactive plan"
+                    areas={estateAreas}
+                />
+                <Link href="/besiedlung-laendlicher-raeume/estate/" className="p-4! flex-1"><button>Zurück</button></Link>
+            </div>
         </>
     );
 }

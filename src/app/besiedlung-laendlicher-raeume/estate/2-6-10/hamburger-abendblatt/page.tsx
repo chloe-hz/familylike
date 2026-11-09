@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 
 export default function Page() {
@@ -9,6 +10,9 @@ export default function Page() {
                     <Image src="/img/abendblatt.jpg" alt="HamburgerAbendblatt" width="0" height="0" sizes="100dvw"
                            className="w-full h-auto"/>
                 </div>
+
+                <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/" className="p-4!"><button>Zurück</button></Link>
+
                 <div className="max-w-3xl mx-auto px-4 py-8 space-y-6 leading-relaxed">
                     <header className="space-y-2">
                         <h1 className="text-3xl font-bold">
@@ -94,6 +98,8 @@ export default function Page() {
                         </p>
                     </section>
                 </div>
+
+                <Link href="/besiedlung-laendlicher-raeume/estate/2-6-10/" className="p-4!"><button>Zurück</button></Link>
             </div>
         </>
     )
