@@ -2,7 +2,6 @@
 
 import ResponsiveImageMap, { MapArea } from "@/components/ResponsiveImageMap";
 import Link from "next/link";
-import Image from "next/image";
 
 const estateAreas: MapArea[] = [
     {
